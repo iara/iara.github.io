@@ -16,6 +16,7 @@ googleAnalytics = ""
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "pt-BR"
 defaultContentLanguageInSubdir = false
+publishDir = "docs"
 
 [outputs]
   home = [ "HTML", "CSS" ]
@@ -203,3 +204,5 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.pt-BR]
   languageCode = "pt-BR"
+  
+  
